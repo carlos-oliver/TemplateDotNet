@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Itau.FJ5.Test.E2E.Infrastructure/1.0.0.0": {
+        "runtime": {
+          "Itau.FJ5.Test.E2E.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Itau.FJ5.Test.E2E.Infrastructure/1.0.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

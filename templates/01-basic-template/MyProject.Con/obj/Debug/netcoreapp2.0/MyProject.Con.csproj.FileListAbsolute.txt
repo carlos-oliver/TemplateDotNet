@@ -1,0 +1,12 @@
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\bin\Debug\netcoreapp2.0\MyProject.Con.deps.json
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\bin\Debug\netcoreapp2.0\MyProject.Con.runtimeconfig.json
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\bin\Debug\netcoreapp2.0\MyProject.Con.runtimeconfig.dev.json
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\bin\Debug\netcoreapp2.0\MyProject.Con.dll
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\bin\Debug\netcoreapp2.0\MyProject.Con.pdb
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.csprojAssemblyReference.cache
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.AssemblyInfoInputs.cache
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.AssemblyInfo.cs
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.csproj.CoreCompileInputs.cache
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.dll
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.pdb
+C:\DotNet\working\templates\01-basic-template\MyProject.Con\obj\Debug\netcoreapp2.0\MyProject.Con.genruntimeconfig.cache

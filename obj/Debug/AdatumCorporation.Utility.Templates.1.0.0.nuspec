@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdatumCorporation.Utility.Templates</id>
+    <version>1.0.0</version>
+    <title>AdatumCorporation Templates</title>
+    <authors>Me</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Templates to use when creating an application for Adatum Corporation.</description>
+    <tags>dotnet-new templates contoso</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\DotNet\working\templates\01-basic-template\MyProject.Con\.template.config\template.json" target="content\templates\01-basic-template\MyProject.Con\.template.config\template.json" />
+    <file src="C:\DotNet\working\templates\01-basic-template\MyProject.Con\MyProject.Con.csproj" target="content\templates\01-basic-template\MyProject.Con\MyProject.Con.csproj" />
+    <file src="C:\DotNet\working\templates\01-basic-template\MyProject.Con\Program.cs" target="content\templates\01-basic-template\MyProject.Con\Program.cs" />
+    <file src="C:\DotNet\working\templates\01-basic-template\README.md" target="content\templates\01-basic-template\README.md" />
+    <file src="C:\DotNet\working\templates\consoleasync\.template.config\template.json" target="content\templates\consoleasync\.template.config\template.json" />
+    <file src="C:\DotNet\working\templates\consoleasync\consoleasync.csproj" target="content\templates\consoleasync\consoleasync.csproj" />
+    <file src="C:\DotNet\working\templates\consoleasync\Program.cs" target="content\templates\consoleasync\Program.cs" />
+    <file src="C:\DotNet\working\templates\extensions\.template.config\template.json" target="content\templates\extensions\.template.config\template.json" />
+    <file src="C:\DotNet\working\templates\extensions\CommonExtensions.cs" target="content\templates\extensions\CommonExtensions.cs" />
+    <file src="C:\DotNet\working\templates\itau\.template.config\template.json" target="content\templates\itau\.template.config\template.json" />
+    <file src="C:\DotNet\working\templates\itau\.vs\Sample.E2E\DesignTimeBuild\.dtbcache.v2" target="content\templates\itau\.vs\Sample.E2E\DesignTimeBuild\.dtbcache.v2" />
+    <file src="C:\DotNet\working\templates\itau\.vs\Sample.E2E\v16\.suo" target="content\templates\itau\.vs\Sample.E2E\v16\.suo" />
+    <file src="C:\DotNet\working\templates\itau\Sample.E2E.sln" target="content\templates\itau\Sample.E2E.sln" />
+    <file src="C:\DotNet\working\templates\itau\Sample.Infrastructure\Program.cs" target="content\templates\itau\Sample.Infrastructure\Program.cs" />
+    <file src="C:\DotNet\working\templates\itau\Sample.Infrastructure\Sample.Infrastructure.csproj" target="content\templates\itau\Sample.Infrastructure\Sample.Infrastructure.csproj" />
+    <file src="C:\DotNet\working\templates\itau\Sample.Run\Sample.Run.csproj" target="content\templates\itau\Sample.Run\Sample.Run.csproj" />
+    <file src="C:\DotNet\working\templates\itau\Sample.Run\UnitTest1.cs" target="content\templates\itau\Sample.Run\UnitTest1.cs" />
+  </files>
+</package>

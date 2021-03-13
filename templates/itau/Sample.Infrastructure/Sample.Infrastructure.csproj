@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Sample.Test</PackageId>
+    <Version>1.0.0.0</Version>
+    <Authors>Carlos</Authors>
+    <Product>Sample.Test</Product>
+  </PropertyGroup>
+
+</Project>

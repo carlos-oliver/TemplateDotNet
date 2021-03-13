@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lAyvJmpraMk4Bckd1hSv5T8Gs3guU9z6X+y9wLMkENdIeFGmsQme9VgCCFlNI/t4phNrxlgv2EddvXJ6eTN+g==",
+  "success": true,
+  "projectFilePath": "C:\\DotNet\\working\\templates\\01-basic-template\\MyProject.Con\\MyProject.Con.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlos\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\carlos\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\carlos\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\carlos\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\carlos\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\carlos\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

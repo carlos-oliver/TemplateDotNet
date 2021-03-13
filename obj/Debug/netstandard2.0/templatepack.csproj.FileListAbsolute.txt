@@ -1,0 +1,9 @@
+C:\DotNet\working\bin\Debug\netstandard2.0\templatepack.deps.json
+C:\DotNet\working\bin\Debug\netstandard2.0\templatepack.dll
+C:\DotNet\working\bin\Debug\netstandard2.0\templatepack.pdb
+C:\DotNet\working\obj\Debug\netstandard2.0\templatepack.csprojAssemblyReference.cache
+C:\DotNet\working\obj\Debug\netstandard2.0\templatepack.AssemblyInfoInputs.cache
+C:\DotNet\working\obj\Debug\netstandard2.0\templatepack.AssemblyInfo.cs
+C:\DotNet\working\obj\Debug\netstandard2.0\templatepack.csproj.CoreCompileInputs.cache
+C:\DotNet\working\obj\Debug\netstandard2.0\templatepack.dll
+C:\DotNet\working\obj\Debug\netstandard2.0\templatepack.pdb

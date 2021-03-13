@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sayed I. Hashimi",
+  "classifications": [ "Console" ], 
+  "name": "Console Sample 05",
+  "identity": "Itau.FJ5.Test.E2E.Infrastructure.CSharp",         
+  "groupIdentity":"Itau.FJ5.Test.E2E.Infrastructure",
+  "shortName": "ItauTest",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "Sample",
+  "preferNameDirectory": true,
+  "symbols":{
+    "includetest": {
+        "type": "parameter",
+        "datatype": "bool",
+        "defaultValue": "true"
+    }
+  },
+  "sources":[{
+    "modifiers": [{
+      "condition": "(!includetest)",
+      "exclude": [ "Itau.FJ5.Test.E2E.Run/**/*"]
+      }
+    ]
+  }]
+}
