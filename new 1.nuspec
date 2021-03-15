@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>AdatumCorporation.Utility.Templates</id>
+        <version>1.0</version>
+        <description>Templates to use when creating an application for Adatum Corporation.</description>
+        <authors>carlos</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	
+        <!-- Optional elements -->
+        <!-- ... -->
+    </metadata>
+    <!-- Optional 'files' node -->
+<files>
+    <file src="templates\**\*" exclude="templates\**\bin\**;templates\**\obj\**" />
+</files>	
+</package>
